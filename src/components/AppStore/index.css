@@ -1,0 +1,36 @@
+/* Write your CSS here */
+.bg-container {
+  background: linear-gradient(to right, #fff1eb, #ace0f9);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  padding: 60px;
+}
+.input {
+  border-width: 0px;
+  background-color: transparent;
+  height: 30px;
+}
+.search-img {
+  width: 30px;
+}
+.search-con {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  border-width: 20px;
+  border-color: #7b8794;
+}
+.unordered-tablist {
+  display: flex;
+  flex-direction: row;
+}
+.unordered-Applist {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}

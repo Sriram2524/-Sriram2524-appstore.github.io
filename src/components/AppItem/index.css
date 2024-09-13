@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.list-2 {
+  margin: 20px;
+  background-color: white;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 40px;
+  height: 200px;
+  width: 200px;
+}
+.app-img {
+  width: 80px;
+}
+.app-name {
+  color: #1e293b;
+  font-weight: bold;
+  font-family: roboto;
+}
